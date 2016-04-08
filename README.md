@@ -1,2 +1,3 @@
-# test
-this is a test repository
+# shopping
+
+a [Sails](http://sailsjs.org) application
